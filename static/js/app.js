@@ -346,6 +346,7 @@ function login(token, pass) {
 //
 
 function displayCreateAccountModal() {
+    alert('hello')
     showModal("create-account-template");
 
     var keys;
